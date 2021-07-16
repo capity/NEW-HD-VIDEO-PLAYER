@@ -1,0 +1,6 @@
+{
+"player_intertitial" : "ca-app-pub-4736587958823322/8756206540",
+"player_banner"      : "ca-app-pub-4736587958823322/7885143857",
+"player_native"      : "ca-app-pub-4736587958823322/7443124878",
+"player_open"        : "ca-app-pub-4736587958823322/7363233826"
+}
